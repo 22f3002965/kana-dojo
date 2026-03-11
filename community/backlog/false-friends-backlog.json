@@ -519,7 +519,7 @@
     "example": "父は都内でサラリーマンをしている。",
     "id": 58,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ペットボトル (petto botoru)",
@@ -608,7 +608,7 @@
     "explanation": "Often used as 'try again after failing'. (Set 4)",
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 68,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
