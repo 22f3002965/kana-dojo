@@ -508,7 +508,7 @@
     "region": "Kyushu",
     "note": "Common Kyushu replacement. (Set 3)",
     "id": 51,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
